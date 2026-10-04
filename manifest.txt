@@ -1,0 +1,4 @@
+# 云下发清单
+# 每行：文件直链(多地址用;分隔)|文件名|SHA256
+https://gitee.com/donglai1/acenb666/raw/master/%E4%B8%89%E6%9E%AA%E5%90%88%E4%B8%80%E5%85%AC%E7%9B%8A.txt;https://donglai33.github.io/acenb666/%E4%B8%89%E6%9E%AA%E5%90%88%E4%B8%80%E5%85%AC%E7%9B%8A.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/%E4%B8%89%E6%9E%AA%E5%90%88%E4%B8%80%E5%85%AC%E7%9B%8A.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
+#SIG: aX6JD2J8NHbsO7jKXx4N2KSnRCHNEw8h8kp1OB8O7GQ7nBVCowoWf+lZIFfhjC51kSzgKRP9qLKpL16NftB4yZ1VcIWYtNFPYA8gdwPBvK6q4Nu6uHCN2tBY0EN//kUZI3dlDO+5psJnnJYcS4/fL+dQq1vCrAUKBtzfWHqrceDWEy10U7O5AWiWHdeBVfJm++yBA+pguL9juL/ULVRvRfKsdUZ5MLNIiSScOyrERG9B0TBxz/rBmmh0XkfwxhrW/ig2H5GL985oIi9cu/0/Ow0YyjzR6EChBAA/M476vl89tDOCB/KwAREAQrDe1Z7/5nZkct8O1adAVqcz/188dg==
