@@ -1,5 +1,4 @@
 # 云下发清单
 # 每行：文件直链(多地址用;分隔，云端文件名用英文)|中文显示名|SHA256
-https://gitee.com/donglai1/acenb666/raw/master/pa66fbed7.txt;https://donglai33.github.io/acenb666/pa66fbed7.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pa66fbed7.txt|10.1【梦】左轮猎枪一体.txt|a66fbed7f59eec6c1f595da09133ce55c9183b3b63df6af84db57d1cbe02fcb9
 https://gitee.com/donglai1/acenb666/raw/master/gun3.txt;https://donglai33.github.io/acenb666/gun3.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/gun3.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
-#SIG: Uz+e5oepF/B3BQMixGRsLcisjVkmRWgpcVZJx/5RUztDM7X9DfQFw/DY5F3+u6SGbV12zIHZDvG7ssiMw2IF5FreTHNuHukF1uRNUpbaBMn9XuLtWaSE8w9UAfapuqz9ss2+AUNA9ratfwC4a4CfZ3cbxKaYF7Zr2BBuyoW7T6AGEegNi6ocLnT0d9v4lJ+7NkZmTRaCc5ZSrzoub5djNuiatqS+RQelC8wa9L8RjN/XsxBG7Wtkgg7K000Qv4iGaLPT5bfDATVD9kGMoOcRWNAt/BkLq+cRLlD5Z9UXCMtIPOUhyUevhkGlYY8dzM748Y6NMXWHaBOQi5Ts41jqnw==
+#SIG: OEq3E/YDUMCWWW3VsdxMDZk0LKRbQoX8l++vLaQFLaKRqkN8+yhzM/fl3Qy3fNUi5+hOTQqOd6qpKWU7LzAwHrou/1fbQ1+GqowC8yRixwSofkdXrCq6PQ7aNrbmGJl4AfGSdcJiQj2fuR7oB91W02/1Uqjj/gNFloNwMiAhs2jHQ7XvPyD5FD2Ie25/sJ53juXEDeoWDirvRdK5KVYumJr+fq6ulNe7QRfcWplm/AXD8Rx5/KMzyBtwRQlBic1kHbmLC1ie6UQTakEOojBjCbu419ix9ejhD1KHx0bWxoyYBjy4fYQatpdUaAs+Ct5Vy6ek0Skm3bSoXaJWBkMx3w==
