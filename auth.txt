@@ -1,4 +1,4 @@
 # 卡密授权数据：卡密哈希|到期日(yyyy-MM-dd)|状态(1启用 0停用)
-ENABLED=0
+ENABLED=1
 cc1a6739e5587f41e66858b041bfa9e58eaaa3edaf97d195d0978bec7ccd6e2a|2026-11-04|0
 393d26cf60e138ef41394ab925fd742cdf8dcc571a38a07f56f0cf4456676bfd|2026-11-04|0
