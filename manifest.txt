@@ -1,7 +1,6 @@
 # 云下发清单
 # 每行：文件直链(多地址用;分隔，云端文件名用英文)|中文显示名|SHA256
 https://gitee.com/donglai1/acenb666/raw/master/pa66fbed7.txt;https://donglai33.github.io/acenb666/pa66fbed7.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pa66fbed7.txt|10.1【梦】左轮猎枪一体.txt|a66fbed7f59eec6c1f595da09133ce55c9183b3b63df6af84db57d1cbe02fcb9
-https://gitee.com/donglai1/acenb666/raw/master/pe2f41efc.txt;https://donglai33.github.io/acenb666/pe2f41efc.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pe2f41efc.txt|测试下线临时文件.txt|e2f41efcc89a8332ba7eb830c50940ebc736247de0d45101323b6fb1b7d23524
 https://gitee.com/donglai1/acenb666/raw/master/p799b5466.txt;https://donglai33.github.io/acenb666/p799b5466.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p799b5466.txt|东来的左轮顶参1.1修复.txt|799b546600743500c7aa78c1718166cb530d6a5a119a3244100eca7476a2eddd
 https://gitee.com/donglai1/acenb666/raw/master/gun3.txt;https://donglai33.github.io/acenb666/gun3.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/gun3.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
-#SIG: LZuZfvlh17N8HFkNWKWbEyES1A0p6xdL/QyiGUMklymaRkwCXbfjUcu+IpcyuWZpFCcTRRuZ0Kga3F9RP5OgdKYW/EYUQLB1mb3eWSEZBk8usWqv/quBFKqAaEaaDXA34DYUlfvh34cBvxGT8DnVHFStZjQfBaf+WXJJ5Olc20kGJuhLbQPNCk9L8iqtHMJ/m0KzvuCybQA5xjvQL0IODRyB3Ls5lxtfJXOwecnUPfgqmotsmt/jkxNibmBNVGG+X3r/dx3JUVvhc//EecGU6Pmzl/8c2hMzUsUq707/6rv/3M6KF4mHFFOWB6z6R4pkcBLEpag8oWeJH+5RdcPtQA==
+#SIG: Dc/qHzyrgTSPIpl+7DEq+No8lOiSKNhz5+WU5WdG70wREBXz3qdZkBLy8NeFM5yc/ZSFzD7i6PTJClJ/qn/5nUqfejxyer0Je/rRWq34ozKwW8q2kY+64rowv633t9waFSRwlG4o79AhsitQZRVxNFSuNP8+CY9W8pVFuPIeYP4kfI4Z97isT8Hyr6SC5jC6dqIlFAdWRSRAJZRxrT6xiMj0s5VsH3ByfhkO3Vefu1ElXJGp90Kob/BnF2U8kWaIsmMdnmyRwqVnmpMNJWwSRIVux+RYN5Fy7K2FKskgI4UZV7K1eSeUeMnxwWibDoIs0UxvuuZJSdyHIQK858L7jA==
