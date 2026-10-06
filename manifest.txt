@@ -1,6 +1,8 @@
 # 云下发清单
 # 每行：文件直链(多地址用;分隔，云端文件名用英文)|中文显示名|SHA256
-https://gitee.com/donglai1/acenb666/raw/master/pc8dea1fe.txt;https://donglai33.github.io/acenb666/pc8dea1fe.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc8dea1fe.txt|某瓜参数公开数值.txt|2b5f4084e05e8d3427ccbaa2c819b936156d75be16ca2ceb1373654493eba9af
-https://gitee.com/donglai1/acenb666/raw/master/pc4152b8d.txt;https://donglai33.github.io/acenb666/pc4152b8d.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc4152b8d.txt|某瓜公益左轮猎枪.txt|d60e9e72b565f6092da9c145492883770079ea68b1b9d15c7cf703c72cd2ae6a
-https://gitee.com/donglai1/acenb666/raw/master/gun3.txt;https://donglai33.github.io/acenb666/gun3.txt;https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/gun3.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
-#SIG: SP8Df/9VfSWJofOBEUYLvX1birE+WGlQdaWWSFrvZiZlCnCToleLbNlvC41U6Jsym/oPLuWTbv2mSq7pUTaspm0miJ3rR9ocaZ5p8SQOzVayD3ukhyqCXfjB+cY6VbAcirGwX1JIfwMf0IoJywIIaJuKSX+OqBd1YUBKXVcyZ/OCCSwfI9XoGSi3ppfI0JP+jEv2TxKDSU+GGK3KwVFT917ICSy0h+lyySpMNlDwld32Dq8FyB3KvcKBZgKGYoFQE5qtff1XPtkyK2R1JfCdSf4X+wkouH3BmX5Po4QO6uvpOoiiQjSs2VGPliXrp0fzi9CK1AorLRZuvfxfUVA61w==
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc8dea1fe.txt;https://donglai33.github.io/acenb666/pc8dea1fe.txt|某瓜参数公开数值.txt|2b5f4084e05e8d3427ccbaa2c819b936156d75be16ca2ceb1373654493eba9af
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc4152b8d.txt;https://donglai33.github.io/acenb666/pc4152b8d.txt|某瓜公益左轮猎枪.txt|d60e9e72b565f6092da9c145492883770079ea68b1b9d15c7cf703c72cd2ae6a
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p25dc53fb.txt;https://donglai33.github.io/acenb666/p25dc53fb.txt|某哭10月6参数详细数值.txt|25dc53fbe0e1de4910e837871cc1ed7420cb6e8ffb1e945974608f126ac49e52
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/gun3.txt;https://donglai33.github.io/acenb666/gun3.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p767da6e3.txt;https://donglai33.github.io/acenb666/p767da6e3.txt|左轮狙击枪贝利亚.txt|767da6e3c9c6e67e31112f4be56d2f8f87a313f9467649f1a6d54b2d810b2adc
+#SIG: hevZCmoq/GurDjWnex+5WsI2SrH9fobPx8Dnjf11A7OidA4MkBcGe8RPyUZ7qwC7Zk0LAXO11pQlk4vL9e8wzkhod4YS0ETXcNFKdFv2DHsABOJuRwnTch9d0pXhbm3eEwSrzAXwaCVIDZSBDeryf58fyyA0iq5BlF0FEflVw+YeZHww4ivJ1yPTew7IY+wBq9OCYEjUCA56MsOTHTP6mKFjSRRFg2+i6w8IlY9K+b0qlyvENfCXIrPelBG4V8HcQCFU6hrrbeijS1ZkeORh/lWJwlM0vuITlVP64TtVaHpm4AbRFFKYVag4PdGUUWy/6F4Yvj9pmpa4PWDhXiez/g==
