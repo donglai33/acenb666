@@ -1,9 +1,10 @@
 # 云下发清单
 # 每行：文件直链(多地址用;分隔，云端文件名用英文)|中文显示名|SHA256
+https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p7adf042d.txt;https://donglai33.github.io/acenb666/p7adf042d.txt|10月8三枪合一公益.txt|7adf042dbc8af50d778b0d42e6289ed9acdc09eacad77e0cd3ba949142cc9f3c
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pa035181f.html;https://donglai33.github.io/acenb666/pa035181f.html|备立压的左轮加狙详细数值.html|a035181f391b9fc7c4ee52dbe45a491362ff8727c4023368267013028acbee8e
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc8dea1fe.txt;https://donglai33.github.io/acenb666/pc8dea1fe.txt|某瓜参数公开数值.txt|2b5f4084e05e8d3427ccbaa2c819b936156d75be16ca2ceb1373654493eba9af
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/pc4152b8d.txt;https://donglai33.github.io/acenb666/pc4152b8d.txt|某瓜公益左轮猎枪.txt|d60e9e72b565f6092da9c145492883770079ea68b1b9d15c7cf703c72cd2ae6a
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p4d55e8a2.html;https://donglai33.github.io/acenb666/p4d55e8a2.html|某哭10月6参数详细数值.html|4d55e8a2d657888d92c4617d32779de7ab1f4b9f3603c4bcd05b33e5c6139481
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/gun3.txt;https://donglai33.github.io/acenb666/gun3.txt|三枪合一公益.txt|d61896cdb9672a3587d2df8835ffcb19b56829e073a8cec28dd128972fe5e44f
 https://cdn.jsdelivr.net/gh/donglai33/acenb666@main/p767da6e3.txt;https://donglai33.github.io/acenb666/p767da6e3.txt|左轮狙击枪贝利亚.txt|767da6e3c9c6e67e31112f4be56d2f8f87a313f9467649f1a6d54b2d810b2adc
-#SIG: TB1+7pQFCw476rn78q4FT2imJeN65U5xCCPZaB1TufcewUnFfpXToshT0ZfbArAanJywHBc5PgPAlx+rDukxfVFaA3+Kclv3VQ7ebk1RNAeLsn/1cPQbWY3dHGke/bh80yYKybJzBxQ87pGsNBNaOMSkVl+e96Cw/rAvr4UHS2woAIODTZQ6xxdeQWxGzPUQyqQ4Gkdz2efXtL8DgkLxflcO8US170gSMduHPYItGD/sw0R2puDEFNdB5SSozYuVHEPVzrx5/EguSn0WySw49K5gbAM26yS3RYh4aOtvZvGFxc6I0Hn+1Cy/a0KiGlNBZK6sshxnzl1NIC0Pqw5/tg==
+#SIG: WzPwA/eI5el6a+BqPzuNNCIhCRy8C24T4UCDNkriDxBVxzx87peAKQu0uBWMebyWg62I6fPiW1ChNeFcJRBe8jIV0CEy+Z+kg5hoHnG1/Kl666UAbS8ib2ARwUPBZ1lMKuIDW9Z7uCRoxHIr4zqZY7IhInRnw+ohKda+KFwdjTPb1AQ2vOMMceuFrpyncZnY9a/k5yTzBD23brYp2yYSv8mFtvdD4v1XizVIGau1sfho99hpN38LbWJ5ekAdxcfcO8ExzNx2vpdp9qUMEe6N7m9rcOlcFQ3QDcDVHK5d/0RZLk20W2YJGX0xWjdwDTQDjGmwoReOESVb1zf5rGlGRw==
